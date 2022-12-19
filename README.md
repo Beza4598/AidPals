@@ -1,7 +1,5 @@
 # AidPals
-A quick look into my project from Microsoft's New Technologists 2021. 
 
-All **source code is property of Microsoft**, and cannot be made public. 
 
 ## Project Demo (with Code Previews)
 
