@@ -218,10 +218,3 @@ Community Integration
 - Additional features such as a friends list and the ability to add people as friends/ view their profiles 
 - Connections to discussion based platforms such as Reddit to encourage people to get closer. (Also, integration with/plugging into existing platforms like LinkedIn.) 
 
-Revenue model
-
-- With all of the pooled money in all of the groups, this sitting money could be used to invest.
-- The pooled money would go through a time without a need for it since its sole purpose is to pay for emergency costs which only occur when an emergency happens. So this time that the money isn’t being used is called sitting money.
-- The individuals in groups would be incentivized to pool in more money as there would be an interest rate like a bank account, but with higher rates.
-- (Like how a bank profits from investing this sitting money, we would make safe investments.)
-
